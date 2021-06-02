@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: azure;
+}
+
+.img{
+    width: 500px;
+    border-color: black;
+    border-width: 30px;
+    border-radius: 250px;
+}
+
+.item{
+    width: 500px;
+    border-color: black;
+    border-width: 30px;
+    border-radius: 250px;
+}
+
+#slide{
+    text-align: center;
+}
